@@ -236,8 +236,9 @@ header
                 padding-bottom: 7px;
                 background-color: white;
                 border-radius: 30px;
-                margin-left: 5%;
-                width: 80%;
+                margin-left: 2%;
+                margin-right: 2%;
+                width: 95%;
                 height: 80%;
                 gap: 20px;
             }
@@ -433,10 +434,10 @@ header
                 }
                 .cards{
                     margin: auto;
-                    width: 111%;
+                    width: 120%;
                 }
                 .cards_2{
-                    margin-left: 5%;
+                    margin-left: -3%;
                     
                 
                 }
